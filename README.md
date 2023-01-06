@@ -1,3 +1,5 @@
+This complete project is designed using MERN Stack.
+
 1.  To install dependencies for backend, run npm install in main folder.
 2.  To run backend type command node server in main folder.
 3.  To install dependencies for frontend , run npm install in /client folder.
